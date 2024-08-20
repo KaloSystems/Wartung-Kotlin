@@ -1,0 +1,4 @@
+knockit.prefix: "&8| &c&lWartung &8› &7" # The Prefix for this Plugin
+
+knockit.saveMethode: FILE # FILE or MYSQL
+maintenance.mode: false # check if maintenance off or on (true = on, false = off)
